@@ -1,12 +1,12 @@
 excel-friends@1.0.0
-Build date: Sun May 31 2020 05:16:02 GMT+0600 (East Kazakhstan Time)
+Build date: Sun May 31 2020 12:49:27 GMT+0600 (East Kazakhstan Time)
 Environment: prod
-Commit: d1e9cda
+Commit: 9b9c458
 
 Branch: master
 
-Author: Yernar at 2020-05-31 05:00:22 +0600 (16 minutes ago)
+Author: Yernar at 2020-05-31 12:49:19 +0600 (8 seconds ago)
 
 Last 2 commit messages:
-d1e9cda - Yernar, 16 minutes ago : added html to img
-5e61eed - Yernar, 23 minutes ago : dialogs added
+9b9c458 - Yernar, 8 seconds ago : dialogs
+46bb143 - Yernar, 3 minutes ago : height fix
