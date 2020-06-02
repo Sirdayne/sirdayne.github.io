@@ -1,12 +1,12 @@
 excel-friends@1.0.0
-Build date: Mon Jun 01 2020 01:35:33 GMT+0600 (East Kazakhstan Time)
+Build date: Tue Jun 02 2020 14:33:08 GMT+0600 (East Kazakhstan Time)
 Environment: prod
-Commit: d5e6a99
+Commit: 0f7ca25
 
 Branch: master
 
-Author: Yernar at 2020-06-01 01:35:02 +0600 (31 seconds ago)
+Author: Yernar at 2020-06-02 14:32:33 +0600 (35 seconds ago)
 
 Last 2 commit messages:
-d5e6a99 - Yernar, 31 seconds ago : added loader
-22378da - Yernar, 12 hours ago : dialog message
+0f7ca25 - Yernar, 35 seconds ago : fixes ui
+d5e6a99 - Yernar, 2 days ago : added loader
