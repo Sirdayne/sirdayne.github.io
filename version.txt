@@ -1,12 +1,12 @@
-excel-friends@1.0.0
-Build date: Tue Jun 02 2020 14:33:08 GMT+0600 (East Kazakhstan Time)
+check-plz@1.0.0
+Build date: Mon Jun 08 2020 17:58:35 GMT+0600 (East Kazakhstan Time)
 Environment: prod
-Commit: 0f7ca25
+Commit: 055ad02
 
 Branch: master
 
-Author: Yernar at 2020-06-02 14:32:33 +0600 (35 seconds ago)
+Author: Yernar at 2020-06-08 17:57:53 +0600 (42 seconds ago)
 
 Last 2 commit messages:
-0f7ca25 - Yernar, 35 seconds ago : fixes ui
-d5e6a99 - Yernar, 2 days ago : added loader
+055ad02 - Yernar, 42 seconds ago : labels
+170fe81 - Yernar, 4 minutes ago : fixed
