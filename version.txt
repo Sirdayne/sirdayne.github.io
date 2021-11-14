@@ -1,0 +1,12 @@
+check-plz@1.0.0
+Build date: Mon Jun 08 2020 17:58:35 GMT+0600 (East Kazakhstan Time)
+Environment: prod
+Commit: 055ad02
+
+Branch: master
+
+Author: Yernar at 2020-06-08 17:57:53 +0600 (42 seconds ago)
+
+Last 2 commit messages:
+055ad02 - Yernar, 42 seconds ago : labels
+170fe81 - Yernar, 4 minutes ago : fixed
