@@ -1,0 +1,52 @@
+{"frames": {
+
+"field/balls/ball_l.png":
+{
+	"frame": {"x":1,"y":98,"w":77,"h":73},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":5,"w":77,"h":73},
+	"sourceSize": {"w":87,"h":80}
+},
+"field/glow_8.png":
+{
+	"frame": {"x":1,"y":1,"w":114,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":13,"w":114,"h":95},
+	"sourceSize": {"w":120,"h":108}
+},
+"field/pins/glow.png":
+{
+	"frame": {"x":76,"y":98,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40}
+},
+"field/pins/pin_l_initial.png":
+{
+	"frame": {"x":94,"y":140,"w":18,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":18,"h":18},
+	"sourceSize": {"w":32,"h":32}
+},
+"field/win-field_8.png":
+{
+	"frame": {"x":76,"y":140,"w":48,"h":16},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":16},
+	"sourceSize": {"w":48,"h":16}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "field-0.png",
+	"format": "RGBA8888",
+	"size": {"w":117,"h":189},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:babaa50881f62901fa32d8fd972ed388:10317293f34fc59a2439250e964f508c:690e212c3a0b257f02d151594c570d75$"
+}
+}

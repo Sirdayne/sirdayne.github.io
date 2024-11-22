@@ -1,0 +1,34 @@
+{
+    "Form": {
+        "BET": "",
+        "ROW": "",
+        "RISK": "",
+        "BALANCE": ""
+    },
+    "RiskLevel": {
+        "LOW": "",
+        "MEDIUM": "",
+        "HIGH": ""
+    },
+    "MainMenu": {
+        "HONESTY": "",
+        "SETTINGS": ""
+    },
+    "SettingsPanel": {
+        "RULES": "",
+        "RULE_INFO": "",
+        "INFORMATION": "",
+        "GAME_FIELD": "",
+        "MAX_BET": "",
+        "CONFIRM_MAX_BET": "",
+        "RIGHT": "",
+        "LEFT": ""
+    },
+    "Button": {
+        "CANCEL": "",
+        "ACTIVATE": ""
+    },
+    "Alert": {
+        "MAX_BET": ""
+    }
+}

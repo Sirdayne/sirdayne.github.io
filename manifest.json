@@ -1,0 +1,38 @@
+{
+  "App.tsx": {
+    "file": "static/js/DnOoTqgN.js",
+    "name": "App",
+    "src": "App.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "static/css/App-DJIQbX6-.css"
+    ],
+    "assets": [
+      "static/img/plinko-yimutRmv.svg",
+      "static/img/apisGames-DSe5PNFp.svg"
+    ]
+  },
+  "assets/img/apisGames.svg": {
+    "file": "static/img/apisGames-DSe5PNFp.svg",
+    "src": "assets/img/apisGames.svg"
+  },
+  "assets/img/plinko.svg": {
+    "file": "static/img/plinko-yimutRmv.svg",
+    "src": "assets/img/plinko.svg"
+  },
+  "index.html": {
+    "file": "assets/main-DK5y6DHa.js",
+    "name": "main",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "App.tsx"
+    ],
+    "css": [
+      "static/css/main-Bk3AkD6E.css"
+    ]
+  }
+}
